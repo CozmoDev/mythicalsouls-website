@@ -158,7 +158,6 @@ game:GetService("Players").PlayerRemoving:connect(function(player)
 end)
 
 -- Now start the connection
-game:Load("rbxasset://temp.rbxl")
 ns:Start(25565, sleeptime)  
 pcall(function() game.LocalSaveEnabled = true end)
 
