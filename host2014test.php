@@ -1,7 +1,5 @@
-<br />
-<b>Notice</b>:  Undefined index: port in <b>/storage/ssd4/895/18801895/public_html/game/host2014test.php</b> on line <b>5</b><br />
---rbxsig%Zr98PtNpmnTulp67GOSp02YmiCcQQWkFM2KF3dWa97+OMHRvGJevyA3hRMhbFeJ1s2lJgCUJk43USGdVz3SGXOb1XlHGjXdlWwsc3Ovdv2uHJcrQRaj1SZrToTcFw9NMO/7yIyT+QsoEP7NNtbyCNnCkLF7aHfkEoKBA91metvei694qKGheeydzCUxWbeW6vUyFFQJea7Gz7qIAq4J1LOenU6LUrFHwP7nrj5JxiRBE/uTJKlwzmDP3mWNdUIdEuy9/hOtUlEMA+be7yr24XwQHnc6D+pG0FQaSUdwAasY5isv47cBXf0gBWYtpW4z5C8LGXsRzd9UytVJmWuSwVw==%
-
+a--
+rbxsig%SvOCRfs4MS09DiFeZ9ryb0KVTZKM2pYFaz18031HaaiHrZnjsJ+iWsDsSxTs3c1kYMSB0HlSbgzhXXww3xOBUhW0xm1/5mi4O0KnHYGSc4eBTonK6ryFiCwTrBSmrG59TVp2eG6uctncdw9z3Eo/RyJSCFHXct6N9imKE9Qsdco=%
 ------------------- UTILITY FUNCTIONS --------------------------
 
 local cdnSuccess = 0
