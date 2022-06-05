@@ -157,7 +157,7 @@ end)
 
 -- Now start the connection
 game:Load("rbxasset://temp.rbxl")
-ns:Start(25565, sleeptime)  
+ns:Start(53640, 10)  
 pcall(function() game.LocalSaveEnabled = true end)
 
 -- StartGame --
